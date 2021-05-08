@@ -1,0 +1,13 @@
+.socials {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  width: 100%;
+}
+.socials i {
+  margin: 0 20px 20px 20px;
+  cursor: pointer;
+  color: white;
+}
